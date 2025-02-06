@@ -30,9 +30,9 @@ Building this app has made me realize that **even virtual likes feel great!** �
 Contributions are welcome! Feel free to fork, raise issues, or suggest improvements to enhance LamaSocial. Let's build something great together!
 
 ## 📬 Connect With Me
-- LinkedIn: [Jay Rathod](https://www.linkedin.com/in/jay-rathod)
-- GitHub: [JayRathod](https://github.com/JayRathod)
-- Email: jayrathod@example.com
+- LinkedIn: [Yash Maske(https://www.linkedin.com/in/yash-maske)
+- GitHub: [Yash Maske](https://github.com/yash-maske)
+- Email: yashmaske1235@outlook.com
 
 🌟 *Bringing people together, one post at a time!* 📸🚀
 
